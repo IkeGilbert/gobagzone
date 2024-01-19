@@ -1,0 +1,4 @@
+
+
+    window.silex = window.silex || {}
+    window.silex.data = {"site":{"width":1737},"pages":[{"id":"page-index","displayName":"index","link":{"linkType":"LinkTypePage","href":"#!page-index"},"canDelete":true,"canProperties":true,"canMove":true,"canRename":true,"opened":false},{"id":"page-gear","displayName":"gear","link":{"linkType":"LinkTypePage","href":"#!page-gear"},"canDelete":true,"canRename":true,"canMove":true,"canProperties":true},{"id":"page-media","displayName":"media","link":{"linkType":"LinkTypePage","href":"#!page-media"},"canDelete":true,"canRename":true,"canMove":true,"canProperties":true},{"id":"page-about","displayName":"about","link":{"linkType":"LinkTypePage","href":"#!page-about"},"canDelete":true,"canRename":true,"canMove":true,"canProperties":true}]}
